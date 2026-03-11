@@ -6,7 +6,7 @@
 
 **Hoyu Tracking** là một Bot mã nguồn mở giúp bạn theo dõi hành trình đơn hàng tự động dành cho Telegram và Discord. Hiện tại bot đang hỗ trợ tra cứu các đơn vị vận chuyển như **SPX Express** và **J&T Express**, và sẽ còn mở rộng thêm trong tương lai!
 
-🌐 **Trang chủ dự án / Demo:** [https://hoyuuna.qzz.io/hoyu-tracking/](https://hoyuuna.qzz.io/hoyu-tracking/)
+🌐 **Hàng ăn sẵn:** [https://hoyuuna.qzz.io/hoyu-tracking/](https://hoyuuna.qzz.io/hoyu-tracking/)
 
 ---
 
