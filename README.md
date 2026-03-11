@@ -27,7 +27,7 @@ Dự án đã được cung cấp đầy đủ các file cần thiết. Bạn ch
 ### Bước 1: Clone kho lưu trữ
 Hãy **Fork** repository này về tài khoản Github của bạn, sau đó clone về máy:
 ```bash
-git clone https://github.com/TÊN_USER_CỦA_BẠN/hoyu-tracking.git
+git clone https://github.com/hoyuuna/hoyu-tracking.git
 cd hoyu-tracking
 ```
 
