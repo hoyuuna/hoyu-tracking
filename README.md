@@ -50,9 +50,9 @@ PORT=5000
 ### Bước 4: Khởi chạy Bot
 Chạy lệnh sau để khởi động Bot và Web server:
 ```bash
-python main.py
+python index.py
 ```
-*(Lưu ý: Thay `main.py` bằng tên file code python của bạn nếu bạn đặt tên khác).*
+*(Lưu ý: Thay `index.py` bằng tên file code python của bạn nếu bạn đặt tên khác, mặc định là index).*
 
 ---
 
