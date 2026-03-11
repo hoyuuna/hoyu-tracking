@@ -1,0 +1,8 @@
+Flask
+requests
+beautifulsoup4
+pyTelegramBotAPI
+discord.py
+APScheduler
+python-dotenv
+curl_cffi
